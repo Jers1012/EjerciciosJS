@@ -28,7 +28,7 @@ function bussinesDay(año,mes,dia) {
         return false;
     }
 }
-console.log(bussinesDay(2023,01,17));
+console.log(bussinesDay(2023,1,17));
 //verificacion de la resolucion de ambas funciones debe mostrar un mensaje
 
 function verificacion(){
@@ -39,7 +39,7 @@ function verificacion(){
         console.log('descansito')
     }
 }
-console.log(verificacion(9,2023,01,17));
+console.log(verificacion(9,2023,1,17));
 
 // Escribir una funcion que regrese la cantidad de valores true que hay en un array
 /* 
